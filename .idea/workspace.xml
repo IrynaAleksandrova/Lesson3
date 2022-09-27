@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="652db9a4-fc86-4903-ac05-d6975a289264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Additionally/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cycles/Subsequence2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycles/Subsequence2.java" afterDir="false" />
     </list>
@@ -129,11 +130,23 @@
       <option name="presentableId" value="Default" />
       <updated>1664255661879</updated>
       <workItem from="1664255664000" duration="633000" />
-      <workItem from="1664256318524" duration="8311000" />
+      <workItem from="1664256318524" duration="10038000" />
     </task>
+    <task id="LOCAL-00001" summary="second">
+      <created>1664266151337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664266151337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
 </project>
