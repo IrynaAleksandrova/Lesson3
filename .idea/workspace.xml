@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="652db9a4-fc86-4903-ac05-d6975a289264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tren/First.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Additionally/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Additionally/Fibonacci.java" afterDir="false" />
     </list>
@@ -32,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Multiplication_table">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Additionally.Fibonacci" />
@@ -84,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles.Subsequence" />
-      <module name="Lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cycles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Subsequence2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cycles.Subsequence2" />
       <module name="Lesson3" />
@@ -110,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Construction.Temp" />
+      <module name="Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Construction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Multiplication_table" />
         <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.Subsequence2" />
         <item itemvalue="Application.Number_squares" />
-        <item itemvalue="Application.Subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +130,9 @@
       <option name="presentableId" value="Default" />
       <updated>1664255661879</updated>
       <workItem from="1664255664000" duration="633000" />
-      <workItem from="1664256318524" duration="11279000" />
+      <workItem from="1664256318524" duration="12529000" />
+      <workItem from="1664271114596" duration="4872000" />
+      <workItem from="1664346240467" duration="2812000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1664266151337</created>
@@ -145,15 +148,34 @@
       <option name="project" value="LOCAL" />
       <updated>1664267887683</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fourth">
+      <created>1664269500573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664269500573</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second" />
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="fourth" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth" />
   </component>
 </project>
