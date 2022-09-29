@@ -2,7 +2,7 @@ package Additionally;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        int a = 1;
+        int a = 0;
         int b = 1;
         int c;
         System.out.print(a + " " + b + " ");

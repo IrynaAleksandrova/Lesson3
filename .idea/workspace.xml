@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="652db9a4-fc86-4903-ac05-d6975a289264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tren/First.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Additionally/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Additionally/Fibonacci.java" afterDir="false" />
     </list>
@@ -33,19 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.Multiplication_table">
+}]]></component>
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Additionally.Fibonacci" />
       <module name="Lesson3" />
@@ -113,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multiplication_table" />
         <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Multiplication_table" />
         <item itemvalue="Application.Temp" />
         <item itemvalue="Application.Subsequence2" />
         <item itemvalue="Application.Number_squares" />
@@ -133,6 +135,7 @@
       <workItem from="1664256318524" duration="12529000" />
       <workItem from="1664271114596" duration="4872000" />
       <workItem from="1664346240467" duration="2812000" />
+      <workItem from="1664467177739" duration="2087000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1664266151337</created>
